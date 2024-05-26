@@ -1,0 +1,16 @@
+{
+    "name": "leotina/phpwebstore",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "diaku",
+            "email": "diakuzena@gmail.com"
+        }
+    ],
+    "require": {}
+}
